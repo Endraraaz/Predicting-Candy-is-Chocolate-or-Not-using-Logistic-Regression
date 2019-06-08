@@ -1,4 +1,4 @@
-# Predicting Candy or Not using Logistic Regression on Candy Power Ranking Data
+# Predicting Candy is Chocolate or Not using Logistic Regression on Candy Power Ranking Data
 
 This folder contains the data behind the story [The Ultimate Halloween Candy Power Ranking](http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/) and analysis using Logistic Regression on Jupyter Notebook.
 
